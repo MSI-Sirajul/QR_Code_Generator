@@ -34,11 +34,11 @@ echo -e "${CYAN}Setting up Termux storage...${NC}"
 
 # ====== Download Main Script from GitHub ======
 echo -e "${CYAN}Downloading main QR script...${NC}"
-curl -O https://raw.githubusercontent.com/MSI-Sirajul/QR_Code_Generator/main/main.sh
+curl -O https://raw.githubusercontent.com/MSI-Sirajul/QR_Code_Generator/main/qrcode
 
 # ====== Move Script to /bin & Make Executable ======
-mv main.sh /data/data/com.termux/files/usr/bin/main.sh
-chmod 777 $PREFIX/bin/main.sh
+mv main.sh /data/data/com.termux/files/usr/bin/qrcode
+chmod 777 $PREFIX/bin/qrcode
 # ====== Completion Message ======
 echo
 echo -e "${GREEN}Installation Complete!${NC}"
