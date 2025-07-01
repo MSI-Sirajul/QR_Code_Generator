@@ -178,3 +178,52 @@ This tool iscompletely Free to Use.
 | \[0]   | Exit tool                        |
 
 ---
+
+<div align="center">
+<h2>About Developer</h2> </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MSI-Sirajul/Stack-Exchange/refs/heads/main/.GitHub/banner.jpg" alt="Profile" width="100%"/>
+
+  <h2>MD Sirajul Islam</h2>
+  <a href="https://www.linkedin.com/in/sirajul26">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/TS.Sirajul26">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.youtube.com/@basichacker26">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.instagram.com/its.sirajul16">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://md-sirajul-islam.lovable.app">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+  </a>
+</div>
+
+---
+
+- Expert in:`Windows`,`Linux`,`MacOS`,`Android` etc.
+- Working on:`Building a personal-portfolio`, `Open-source project`
+
+---
+<div align="center">
+  <h2>Basic Knowledge</h2></div>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+</div>
+
+---
+
+<div align="center">
+  <h2>Copyright</h2>
+© 2025 MSI-Sirajul. All rights reserved.
+</div>
+
+---
+
