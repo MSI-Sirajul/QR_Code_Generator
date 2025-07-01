@@ -1,17 +1,9 @@
 # QR_Code_Generator
-```
-    ___  ____     ____ ___  ____  _____ 
-   / _ \|  _ \   / ___/ _ \|  _ \| ____|
-  | | | | | |_) | |  | | | | | | | |__| 
-  | |_| |  _ <  | |__| |_| | |_| | |___ 
-   \__\_\_| \_\  \____\___/|____/|_____|
-         QR Code Generator by M.S.I
-             (CLI Edition)
-     Saved To: /sdcard/QRCode-Output
-```
-**Platform:** `Android (Termux) and Linux`
 
-**Tool Type:** `Offline CLI Tool`
+![Banner](https://raw.githubusercontent.com/MSI-Sirajul/QR_Code_Generator/refs/heads/main/.gitignore/IMG_20250702_013910.jpg)
+
+- Platform: `Android (Termux) and Linux`
+- Tool Type: `Offline CLI Tool`
 
 ---
 
