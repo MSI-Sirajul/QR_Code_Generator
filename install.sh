@@ -43,3 +43,4 @@ chmod +x 777 $PREFIX/bin/main.sh
 echo
 echo -e "${GREEN}Installation Complete!${NC}"
 echo -e "${YELLOW}Just type: ${CYAN}main.sh${YELLOW} to run${NC}"
+rm install.sh
