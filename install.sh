@@ -38,9 +38,8 @@ curl -O https://raw.githubusercontent.com/MSI-Sirajul/QR_Code_Generator/main/mai
 
 # ====== Move Script to /bin & Make Executable ======
 mv main.sh /data/data/com.termux/files/usr/bin/main.sh
-chmod +x 777 $PREFIX/bin/main.sh
+chmod 777 $PREFIX/bin/main.sh
 # ====== Completion Message ======
 echo
 echo -e "${GREEN}Installation Complete!${NC}"
 echo -e "${YELLOW}Just type: ${CYAN}main.sh${YELLOW} to run${NC}"
-rm install.sh
