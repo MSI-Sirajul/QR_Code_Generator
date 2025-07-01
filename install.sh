@@ -30,7 +30,7 @@ install_pkg termux-api
 
 # ====== Setup Termux Storage ======
 echo -e "${CYAN}Setting up Termux storage...${NC}"
-# termux-setup-storage
+termux-setup-storage
 
 # ====== Download Main Script from GitHub ======
 echo -e "${CYAN}Downloading main QR script...${NC}"
@@ -42,4 +42,4 @@ chmod 777 $PREFIX/bin/qrcode
 # ====== Completion Message ======
 echo
 echo -e "${GREEN}Installation Complete!${NC}"
-echo -e "${YELLOW}Just type: ${CYAN}main.sh${YELLOW} to run${NC}"
+echo -e "${YELLOW}Just type: ${CYAN}`qrcode`${YELLOW} to run${NC}"
